@@ -1,16 +1,47 @@
-## Hi there 👋
+Welcome to my GitHub! I'm a passionate **quantitative researcher/trader** with a strong focus on the mathematics behind data-driven trading strategies, statistical modeling, and financial engineering. My work blends mathematics, programming, and markets to uncover robust insights and build algorithmic trading systems.
 
-<!--
-**Sajeeth-S/Sajeeth-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Aspiring Quantitative Researcher
+- Background in Mathematics - BSc Hons from the University of Warwick
+- Fluent in Python, NumPy, Pandas, and Matplotlib; working knowledge of C, R and SQL
+- Enthusiast of probability theory, stochastic processes, and machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a 22-year-old Mathematics graduate from the University of Warwick, currently based in London. My work sits at the intersection of theoretical mathematics, computational methods, and research-driven problem solving.
+
+This portfolio showcases projects that reflect my mathematical thinking — from algorithm design and numerical methods to data analysis and applied modeling. I enjoy working on problems that require precision, abstraction, and creativity, and I’m particularly interested in areas like pure mathematics, applied analysis, and mathematical computing.
+
+I use tools like Python, LaTeX, and mathematical libraries to translate theory into practice, and I’m always looking to deepen my understanding through research and collaboration. I’m currently seeking roles where I can contribute to mathematically rich work, whether in research, analytics, or technical development.
+
+Feel free to explore my projects — and don’t hesitate to get in touch if you’d like to connect or collaborate.
+
+## Featured Projects
+
+- [Option Pricing Models](https://github.com/Sajeeth-S/Option-Pricing-Models) : Derived and implemented multiple option pricing models from scratch
+- [Technical Indicators](https://github.com/Sajeeth-S/Technical-Indicators) : Implemented technical indicators from scratch with visual analysis
+- [Backtesting Strategies](https://github.com/Sajeeth-S/Backtesting-Strategies) : A backtesting engine to evaluate trading strategies on historical data
+- [Machine Learning Projects](https://github.com/Sajeeth-S/Machine-Learning-Projects) : Derived and implemented a K-Means Clustering Algorithm from scratch whilst using Voronoi Diagrams for visualisation purposes
+- [Portfolio Optimisation](https://github.com/Sajeeth-S/Portfolio-Optimisation) : Derived and implemented Harry Markowitz's infamous Modern Portfolio Theory in detail
+
+## What I’m Working On
+
+- Implementing and backtesting unique **trading strategies**
+- Exploring the use of **machine learning in financial markets**
+- Deriving and implementing the **Heston option pricing model**
+
+## Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## Let's Connect
+
+- [LinkedIn](https://linkedin.com)
+- Reach out: [sajeethsivakumaran@gmail.com](mailto:sajeethsivakumaran@gmail.com)
+
+---
+
+*Thanks for visiting! Always happy to collaborate or discuss markets, code, and research.*
