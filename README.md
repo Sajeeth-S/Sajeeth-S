@@ -1,4 +1,4 @@
-Welcome to my GitHub! I'm a passionate **quantitative researcher/trader** with a strong focus on the mathematics behind data-driven trading strategies, statistical modeling, and financial engineering. My work blends mathematics, programming, and markets to uncover robust insights and build algorithmic trading systems.
+Welcome to my GitHub! I'm a passionate **quantitative researcher/trader** with a strong focus on the mathematics behind data-driven trading strategies, statistical modeling, and financial engineering. My work combines mathematics, programming, and markets to uncover robust insights and build algorithmic trading systems.
 
 ## About Me
 
@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **quantitative researcher/trader** with a
 - Fluent in Python, NumPy, Pandas, and Matplotlib; working knowledge of C, R and SQL
 - Enthusiast of probability theory, stochastic processes, and machine learning
 
-I’m a 22-year-old Mathematics graduate from the University of Warwick, currently based in London. My work sits at the intersection of theoretical mathematics, computational methods, and research-driven problem solving.
+I’m a 22-year-old Mathematics graduate from the University of Warwick, currently based in London. Through attaining my degree, I have learnt many important areas of mathematics comprehensively, such as Linear Algebra, Matrix Analysis, Stochastic Processes, Complex Analysis, Multivariable Calculus and more.
 
 This portfolio showcases projects that reflect my mathematical thinking — from algorithm design and numerical methods to data analysis and applied modeling. I enjoy working on problems that require precision, abstraction, and creativity, and I’m particularly interested in areas like pure mathematics, applied analysis, and mathematical computing.
 
