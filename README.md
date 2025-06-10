@@ -22,6 +22,7 @@ Feel free to explore my projects — and don’t hesitate to get in touch if you
 - [Backtesting Strategies](https://github.com/Sajeeth-S/Backtesting-Strategies) : A backtesting engine to evaluate trading strategies on historical data
 - [Machine Learning Projects](https://github.com/Sajeeth-S/Machine-Learning-Projects) : Derived and implemented a K-Means Clustering Algorithm from scratch whilst using Voronoi Diagrams for visualisation purposes
 - [Portfolio Optimisation](https://github.com/Sajeeth-S/Portfolio-Optimisation) : Derived and implemented Harry Markowitz's infamous Modern Portfolio Theory in detail
+- [Trading Algorithm](https://github.com/Sajeeth-S/Trading-Algorithms) : Combined the above projects to create a K-Means Clustering Trading Algorithm
 
 ## What I’m Working On
 
@@ -39,8 +40,8 @@ Feel free to explore my projects — and don’t hesitate to get in touch if you
 
 ## Let's Connect
 
-- [LinkedIn](https://linkedin.com)
-- Reach out: [sajeethsivakumaran@gmail.com](mailto:sajeethsivakumaran@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sajeeth-s)
+- Reach out: [sajeeth.sivakumaran@outlook.com](mailto:sajeeth.sivakumaran@outlook.com)
 
 ---
 
