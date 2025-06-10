@@ -1,4 +1,4 @@
-Welcome to my GitHub! I'm a passionate **quantitative researcher/trader** with a strong focus on the mathematics behind data-driven trading strategies, statistical modeling, and financial engineering. My work combines mathematics, programming, and markets to uncover robust insights and build algorithmic trading systems.
+Welcome to my GitHub! I'm a passionate **Quantitative Researcher** with a strong focus on the mathematics behind data-driven trading strategies, statistical modeling, and financial engineering. My work combines mathematics, programming, and markets to uncover robust insights and build algorithmic trading systems.
 
 ## About Me
 
