@@ -9,11 +9,11 @@ Welcome to my GitHub! I'm a passionate **Quantitative Researcher** with a strong
 
 I’m a 22-year-old Mathematics graduate from the University of Warwick, currently based in London. Through attaining my degree, I have learnt many important areas of mathematics comprehensively, such as Linear Algebra, Matrix Analysis, Stochastic Processes, Complex Analysis, Multivariable Calculus and more.
 
-This portfolio showcases projects that reflect my mathematical thinking — from algorithm design and numerical methods to data analysis and applied modeling. I enjoy working on problems that require precision, abstraction, and creativity, and I’m particularly interested in areas like pure mathematics, applied analysis, and mathematical computing.
+This portfolio showcases projects that reflect my mathematical thinking, from algorithm design and numerical methods to data analysis and applied modeling. I enjoy working on problems that require precision, abstraction, and creativity, and I’m particularly interested in areas like pure mathematics, applied analysis, and mathematical computing.
 
 I use tools like Python, LaTeX, and mathematical libraries to translate theory into practice, and I’m always looking to deepen my understanding through research and collaboration. I’m currently seeking roles where I can contribute to mathematically rich work, whether in research, analytics, or technical development.
 
-Feel free to explore my projects — and don’t hesitate to get in touch if you’d like to connect or collaborate.
+Feel free to explore my projects and don’t hesitate to get in touch if you’d like to connect or collaborate.
 
 ## Featured Projects
 
