@@ -40,8 +40,8 @@ Feel free to explore my projects and don’t hesitate to get in touch if you’d
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sajeeth-s)
-- Reach out: [sajeeth.sivakumaran@outlook.com](mailto:sajeeth.sivakumaran@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/sajeeth-sivakumaran)
+- Reach out: [sajeeth_s@outlook.com](mailto:sajeeth_s@outlook.com)
 
 ---
 
