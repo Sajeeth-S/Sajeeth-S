@@ -2,7 +2,7 @@ Welcome to my GitHub! I'm a passionate **Quantitative Researcher** with a strong
 
 ## About Me
 
-- Aspiring Quantitative Researcher
+- Aspiring Quant
 - Background in Mathematics - BSc Hons from the University of Warwick
 - Fluent in Python, NumPy, Pandas, and Matplotlib; working knowledge of C, R and SQL
 - Enthusiast of probability theory, stochastic processes, and machine learning
